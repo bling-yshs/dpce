@@ -1,0 +1,8 @@
+{
+    "compatibilityLevel": "JAVA_8",
+    "package": "com.yshs.dpce.mixin",
+    "refmap": "refmap.dpce.json",
+    "mixins": [],
+    "client": ["MixinEntityPlayer"],
+    "server": []
+}
